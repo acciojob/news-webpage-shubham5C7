@@ -6,12 +6,12 @@ body {
 
 
     header {
-      background-color: #011e29;
-      color: white;
-      text-align: center;
-      padding: 20px 0;
-      font-size: 28px;
-      font-weight: bold;
+       text-align: center;
+  background-color: #011e29;
+  color: white;
+  padding: 20px 0;
+  font-size: 28px;
+  font-weight: bold;
     }
 
  
@@ -50,6 +50,7 @@ body {
       min-width: 180px;
       display: flex;
       flex-direction: column;
+	 align-items: center; 
       gap: 10px;
       background-color: #ffffff;
       padding: 15px;
